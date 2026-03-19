@@ -1,1 +1,2 @@
-[[data class]]
+[[Data class]]
+[[что-то новое]]
