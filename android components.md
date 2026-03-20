@@ -1,0 +1,1 @@
+В андроид есть 4 основных компонента приложения: activity, service, contentProvider, BroadcastReceivier
