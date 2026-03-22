@@ -1,0 +1,3 @@
+- [ ] Процессы и потоки ОС - https://www.youtube.com/watch?v=tH41Gfa08fc&t=350s
+- [ ] FlowMVI part 2 - https://www.youtube.com/watch?v=5QzLORc0wsw&pp=ugUEEgJydQ%3D%3D
+- [ ] 
